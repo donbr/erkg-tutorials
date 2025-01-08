@@ -22,6 +22,8 @@ python-dotenv = "^1.0.1"
 loguru = "^0.7.2"
 pandas = "^2.2.3"
 pytextrank = "^3.3.0"
+gliner-spacy = "^0.0.10"
+zshot = "^0.0.9"
 
 [tool.poetry.group.dev.dependencies]
 notebook = "^7.2.2"
